@@ -1,0 +1,3065 @@
+[
+    {
+        "name": "elephant",
+        "hints": [
+            "I am the largest land animal.",
+            "I have a trunk.",
+            "I have tusks and big ears."
+        ]
+    },
+    {
+        "name": "giraffe",
+        "hints": [
+            "I am the tallest animal.",
+            "I have a very long neck.",
+            "I eat leaves from tall trees."
+        ]
+    },
+    {
+        "name": "kangaroo",
+        "hints": [
+            "I am native to Australia.",
+            "I carry my babies in a pouch.",
+            "I can jump very far."
+        ]
+    },
+    {
+        "name": "penguin",
+        "hints": [
+            "I am a bird that cannot fly.",
+            "I live in cold places.",
+            "I waddle and slide on ice."
+        ]
+    },
+    {
+        "name": "lion",
+        "hints": [
+            "I am known as the king of the jungle.",
+            "I have a mane.",
+            "I roar loudly."
+        ]
+    },
+    {
+        "name": "lion",
+        "hints": [
+            "I am known as the king of the jungle.",
+            "I have a mane.",
+            "I roar loudly."
+        ]
+    },
+    {
+        "name": "tiger",
+        "hints": [
+            "I have orange fur with black stripes.",
+            "I am a big cat.",
+            "I am native to Asia."
+        ]
+    },
+    {
+        "name": "zebra",
+        "hints": [
+            "I have black and white stripes.",
+            "I am related to horses.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "hippopotamus",
+        "altNames": [
+            "hippo"
+        ],
+        "hints": [
+            "I am a large, mostly aquatic mammal.",
+            "I have a big mouth and teeth.",
+            "I live in rivers in Africa."
+        ]
+    },
+    {
+        "name": "rhinoceros",
+        "altNames": [
+            "rhino"
+        ],
+        "hints": [
+            "I have one or two horns on my nose.",
+            "I am a large herbivore.",
+            "I live in Africa and Asia."
+        ]
+    },
+    {
+        "name": "cheetah",
+        "hints": [
+            "I am the fastest land animal.",
+            "I have black spots.",
+            "I hunt on the African plains."
+        ]
+    },
+    {
+        "name": "leopard",
+        "hints": [
+            "I am a big cat with rosette spots.",
+            "I am an excellent climber.",
+            "I live in Africa and Asia."
+        ]
+    },
+    {
+        "name": "wolf",
+        "hints": [
+            "I am an ancestor of domestic dogs.",
+            "I live and hunt in packs.",
+            "I howl at the moon."
+        ]
+    },
+    {
+        "name": "fox",
+        "hints": [
+            "I am known for my bushy tail.",
+            "I am clever and sly.",
+            "I am a small wild canine."
+        ]
+    },
+    {
+        "name": "bear",
+        "hints": [
+            "I am large and furry.",
+            "I like honey and fish.",
+            "I hibernate in winter."
+        ]
+    },
+    {
+        "name": "panda",
+        "hints": [
+            "I am black and white.",
+            "I eat mostly bamboo.",
+            "I am native to China."
+        ]
+    },
+    {
+        "name": "koala",
+        "hints": [
+            "I am a marsupial from Australia.",
+            "I eat eucalyptus leaves.",
+            "I sleep most of the day."
+        ]
+    },
+    {
+        "name": "sloth",
+        "hints": [
+            "I move very slowly.",
+            "I live in trees in South America.",
+            "I sleep up to 20 hours a day."
+        ]
+    },
+    {
+        "name": "gorilla",
+        "hints": [
+            "I am the largest primate.",
+            "I live in groups called troops.",
+            "I am mostly vegetarian."
+        ]
+    },
+    {
+        "name": "chimpanzee",
+        "altNames": [
+            "chimp"
+        ],
+        "hints": [
+            "I am closely related to humans.",
+            "I use tools.",
+            "I live in African forests."
+        ]
+    },
+    {
+        "name": "orangutan",
+        "hints": [
+            "I have long orange hair.",
+            "I live in trees in Borneo and Sumatra.",
+            "I am a great ape."
+        ]
+    },
+    {
+        "name": "baboon",
+        "hints": [
+            "I have a dog-like face.",
+            "I have a colorful bottom.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "camel",
+        "hints": [
+            "I have one or two humps.",
+            "I live in deserts.",
+            "I can go long without water."
+        ]
+    },
+    {
+        "name": "llama",
+        "hints": [
+            "I am related to camels.",
+            "I live in South America.",
+            "I am used as a pack animal."
+        ]
+    },
+    {
+        "name": "alpaca",
+        "hints": [
+            "I am smaller than a llama.",
+            "I have soft wool.",
+            "I live in the Andes."
+        ]
+    },
+    {
+        "name": "goat",
+        "hints": [
+            "I have horns and a beard.",
+            "I can climb steep cliffs.",
+            "I am often kept for milk."
+        ]
+    },
+    {
+        "name": "sheep",
+        "hints": [
+            "I have woolly fleece.",
+            "I am often herded by dogs.",
+            "I say 'baa'."
+        ]
+    },
+    {
+        "name": "cow",
+        "hints": [
+            "I give milk.",
+            "I have horns and hooves.",
+            "I say 'moo'."
+        ]
+    },
+    {
+        "name": "horse",
+        "hints": [
+            "I have a mane and tail.",
+            "I am ridden by people.",
+            "I say 'neigh'."
+        ]
+    },
+    {
+        "name": "donkey",
+        "hints": [
+            "I am smaller than a horse.",
+            "I have long ears.",
+            "I am known for being stubborn."
+        ]
+    },
+    {
+        "name": "dog",
+        "hints": [
+            "I am known as man's best friend.",
+            "I bark.",
+            "I come in many breeds."
+        ]
+    },
+    {
+        "name": "cat",
+        "hints": [
+            "I purr and meow.",
+            "I like to chase mice.",
+            "I am often kept as a pet."
+        ]
+    },
+    {
+        "name": "rabbit",
+        "altNames": [
+            "bunny",
+            "hare"
+        ],
+        "hints": [
+            "I have long ears.",
+            "I hop and eat carrots.",
+            "I am known for my speed."
+        ]
+    },
+    {
+        "name": "hamster",
+        "hints": [
+            "I am a small rodent.",
+            "I like to run in wheels.",
+            "I have cheek pouches."
+        ]
+    },
+    {
+        "name": "guinea pig",
+        "altNames": [
+            "cavy"
+        ],
+        "hints": [
+            "I am a small, tailless rodent.",
+            "I squeak.",
+            "I am popular as a pet."
+        ]
+    },
+    {
+        "name": "mouse",
+        "hints": [
+            "I am small and gray.",
+            "I like cheese.",
+            "I am chased by cats."
+        ]
+    },
+    {
+        "name": "rat",
+        "hints": [
+            "I am larger than a mouse.",
+            "I have a long, scaly tail.",
+            "I am very intelligent."
+        ]
+    },
+    {
+        "name": "squirrel",
+        "hints": [
+            "I have a bushy tail.",
+            "I climb trees.",
+            "I collect nuts."
+        ]
+    },
+    {
+        "name": "bat",
+        "hints": [
+            "I am the only flying mammal.",
+            "I use echolocation.",
+            "I am nocturnal."
+        ]
+    },
+    {
+        "name": "owl",
+        "hints": [
+            "I am a bird of prey.",
+            "I can turn my head almost all the way around.",
+            "I hoot at night."
+        ]
+    },
+    {
+        "name": "eagle",
+        "hints": [
+            "I have excellent eyesight.",
+            "I am a powerful bird of prey.",
+            "I have a hooked beak."
+        ]
+    },
+    {
+        "name": "falcon",
+        "hints": [
+            "I am a fast-flying bird of prey.",
+            "I am used in hunting by humans.",
+            "I have pointed wings."
+        ]
+    },
+    {
+        "name": "parrot",
+        "hints": [
+            "I am a colorful bird.",
+            "I can mimic human speech.",
+            "I have a curved beak."
+        ]
+    },
+    {
+        "name": "peacock",
+        "hints": [
+            "I have beautiful, colorful tail feathers.",
+            "I am native to India.",
+            "I am known for my display."
+        ]
+    },
+    {
+        "name": "flamingo",
+        "hints": [
+            "I am pink.",
+            "I stand on one leg.",
+            "I have a long neck."
+        ]
+    },
+    {
+        "name": "duck",
+        "hints": [
+            "I quack.",
+            "I have webbed feet.",
+            "I like to swim."
+        ]
+    },
+    {
+        "name": "goose",
+        "hints": [
+            "I honk.",
+            "I migrate long distances.",
+            "I am larger than a duck."
+        ]
+    },
+    {
+        "name": "swan",
+        "hints": [
+            "I am large and graceful.",
+            "I have a long neck.",
+            "I am often white."
+        ]
+    },
+    {
+        "name": "chicken",
+        "hints": [
+            "I lay eggs.",
+            "I say 'cluck'.",
+            "I am kept on farms."
+        ]
+    },
+    {
+        "name": "turkey",
+        "hints": [
+            "I am eaten at Thanksgiving.",
+            "I have a wattle.",
+            "I can fan my tail feathers."
+        ]
+    },
+    {
+        "name": "frog",
+        "hints": [
+            "I am an amphibian.",
+            "I can jump far.",
+            "I croak."
+        ]
+    },
+    {
+        "name": "toad",
+        "hints": [
+            "I am similar to a frog but have dry, bumpy skin.",
+            "I am an amphibian.",
+            "I lay eggs in water."
+        ]
+    },
+    {
+        "name": "crocodile",
+        "hints": [
+            "I have a long snout and sharp teeth.",
+            "I live in rivers and swamps.",
+            "I am a large reptile."
+        ]
+    },
+    {
+        "name": "alligator",
+        "altNames": [
+            "gator"
+        ],
+        "hints": [
+            "I look like a crocodile but have a wider snout.",
+            "I live in the southeastern US.",
+            "I am a large reptile."
+        ]
+    },
+    {
+        "name": "snake",
+        "hints": [
+            "I have no legs.",
+            "I slither.",
+            "Some of my kind are venomous."
+        ]
+    },
+    {
+        "name": "parrot",
+        "altNames": [
+            "macaw",
+            "cockatoo"
+        ],
+        "hints": [
+            "I am a colorful bird.",
+            "I can mimic human speech.",
+            "I have a curved beak."
+        ]
+    },
+    {
+        "name": "panda",
+        "altNames": [
+            "giant panda"
+        ],
+        "hints": [
+            "I am black and white.",
+            "I eat mostly bamboo.",
+            "I am native to China."
+        ]
+    },
+    {
+        "name": "dolphin",
+        "hints": [
+            "I am a very intelligent marine mammal.",
+            "I can jump out of the water.",
+            "I use echolocation."
+        ]
+    },
+    {
+        "name": "whale",
+        "hints": [
+            "I am the largest animal on Earth.",
+            "I live in the ocean.",
+            "I breathe through a blowhole."
+        ]
+    },
+    {
+        "name": "shark",
+        "hints": [
+            "I have many sharp teeth.",
+            "I am a top predator in the ocean.",
+            "I have a dorsal fin."
+        ]
+    },
+    {
+        "name": "octopus",
+        "hints": [
+            "I have eight arms.",
+            "I can squirt ink.",
+            "I am very intelligent."
+        ]
+    },
+    {
+        "name": "crab",
+        "hints": [
+            "I have a hard shell and pincers.",
+            "I walk sideways.",
+            "I live on the beach or in the sea."
+        ]
+    },
+    {
+        "name": "lobster",
+        "hints": [
+            "I have large claws.",
+            "I am red when cooked.",
+            "I live on the ocean floor."
+        ]
+    },
+    {
+        "name": "ant",
+        "altNames": [
+            "worker ant",
+            "fire ant"
+        ],
+        "hints": [
+            "I am a tiny insect.",
+            "I live in colonies.",
+            "I can carry many times my weight."
+        ]
+    },
+    {
+        "name": "bee",
+        "altNames": [
+            "honeybee",
+            "bumblebee"
+        ],
+        "hints": [
+            "I make honey.",
+            "I can sting.",
+            "I am important for pollination."
+        ]
+    },
+    {
+        "name": "wasp",
+        "altNames": [
+            "yellowjacket"
+        ],
+        "hints": [
+            "I have a narrow waist.",
+            "I can sting multiple times.",
+            "I build papery nests."
+        ]
+    },
+    {
+        "name": "butterfly",
+        "altNames": [
+            "monarch",
+            "swallowtail"
+        ],
+        "hints": [
+            "I have colorful wings.",
+            "I start as a caterpillar.",
+            "I drink nectar."
+        ]
+    },
+    {
+        "name": "moth",
+        "altNames": [
+            "luna moth",
+            "silkworm"
+        ],
+        "hints": [
+            "I am similar to a butterfly.",
+            "I am often active at night.",
+            "I am attracted to light."
+        ]
+    },
+    {
+        "name": "dragonfly",
+        "altNames": [
+            "darter",
+            "skimmer"
+        ],
+        "hints": [
+            "I have two pairs of wings.",
+            "I am a fast flier.",
+            "I eat mosquitoes."
+        ]
+    },
+    {
+        "name": "grasshopper",
+        "altNames": [
+            "locust"
+        ],
+        "hints": [
+            "I can jump far.",
+            "I make a chirping sound.",
+            "I eat plants."
+        ]
+    },
+    {
+        "name": "cricket",
+        "altNames": [
+            "field cricket"
+        ],
+        "hints": [
+            "I make music by rubbing my wings.",
+            "I am related to grasshoppers.",
+            "I am nocturnal."
+        ]
+    },
+    {
+        "name": "ladybug",
+        "altNames": [
+            "ladybird"
+        ],
+        "hints": [
+            "I am a small beetle.",
+            "I have red wings with black spots.",
+            "I eat aphids."
+        ]
+    },
+    {
+        "name": "beetle",
+        "altNames": [
+            "stag beetle",
+            "dung beetle"
+        ],
+        "hints": [
+            "I have hard wing covers.",
+            "I am the largest group of insects.",
+            "Some of my kind can fly."
+        ]
+    },
+    {
+        "name": "spider",
+        "altNames": [
+            "tarantula",
+            "black widow"
+        ],
+        "hints": [
+            "I have eight legs.",
+            "I spin webs.",
+            "I am not an insect."
+        ]
+    },
+    {
+        "name": "scorpion",
+        "altNames": [
+            "emperor scorpion"
+        ],
+        "hints": [
+            "I have pincers and a stinger.",
+            "I am nocturnal.",
+            "I am an arachnid."
+        ]
+    },
+    {
+        "name": "centipede",
+        "altNames": [
+            "house centipede"
+        ],
+        "hints": [
+            "I have many legs.",
+            "I am fast-moving.",
+            "I am a predator."
+        ]
+    },
+    {
+        "name": "millipede",
+        "altNames": [
+            "giant millipede"
+        ],
+        "hints": [
+            "I have many legs.",
+            "I move slowly.",
+            "I eat decaying plants."
+        ]
+    },
+    {
+        "name": "earthworm",
+        "altNames": [
+            "nightcrawler"
+        ],
+        "hints": [
+            "I live in soil.",
+            "I help plants grow.",
+            "I have no legs."
+        ]
+    },
+    {
+        "name": "snail",
+        "altNames": [
+            "garden snail"
+        ],
+        "hints": [
+            "I have a spiral shell.",
+            "I move slowly.",
+            "I leave a slimy trail."
+        ]
+    },
+    {
+        "name": "slug",
+        "altNames": [
+            "banana slug"
+        ],
+        "hints": [
+            "I have no shell.",
+            "I am slimy.",
+            "I eat plants."
+        ]
+    },
+    {
+        "name": "clam",
+        "altNames": [
+            "quahog"
+        ],
+        "hints": [
+            "I have a hinged shell.",
+            "I live in sand or mud.",
+            "I am a filter feeder."
+        ]
+    },
+    {
+        "name": "oyster",
+        "altNames": [
+            "pearl oyster"
+        ],
+        "hints": [
+            "I make pearls.",
+            "I have a rough shell.",
+            "I am eaten raw or cooked."
+        ]
+    },
+    {
+        "name": "mussel",
+        "altNames": [
+            "blue mussel"
+        ],
+        "hints": [
+            "I attach to rocks.",
+            "I have a dark shell.",
+            "I am edible."
+        ]
+    },
+    {
+        "name": "scallop",
+        "altNames": [
+            "bay scallop"
+        ],
+        "hints": [
+            "I can swim by clapping my shells.",
+            "I have a fan-shaped shell.",
+            "I am a delicacy."
+        ]
+    },
+    {
+        "name": "jellyfish",
+        "altNames": [
+            "sea jelly"
+        ],
+        "hints": [
+            "I have a gelatinous body.",
+            "I can sting.",
+            "I drift with the currents."
+        ]
+    },
+    {
+        "name": "sea anemone",
+        "altNames": [
+            "anemone"
+        ],
+        "hints": [
+            "I look like a flower.",
+            "I have stinging tentacles.",
+            "I am related to jellyfish."
+        ]
+    },
+    {
+        "name": "coral",
+        "altNames": [
+            "reef coral"
+        ],
+        "hints": [
+            "I build reefs.",
+            "I am made of tiny polyps.",
+            "I am colorful."
+        ]
+    },
+    {
+        "name": "starfish",
+        "altNames": [
+            "sea star"
+        ],
+        "hints": [
+            "I have five arms.",
+            "I can regenerate limbs.",
+            "I live on the ocean floor."
+        ]
+    },
+    {
+        "name": "sea urchin",
+        "altNames": [
+            "urchin"
+        ],
+        "hints": [
+            "I am round and spiny.",
+            "I live on the sea bed.",
+            "I eat algae."
+        ]
+    },
+    {
+        "name": "sea cucumber",
+        "altNames": [
+            "cuke"
+        ],
+        "hints": [
+            "I am soft and elongated.",
+            "I live on the ocean floor.",
+            "I can expel my insides to escape predators."
+        ]
+    },
+    {
+        "name": "seahorse",
+        "altNames": [
+            "hippocampus"
+        ],
+        "hints": [
+            "I have a horse-like head.",
+            "I swim upright.",
+            "Males carry the babies."
+        ]
+    },
+    {
+        "name": "manatee",
+        "altNames": [
+            "sea cow"
+        ],
+        "hints": [
+            "I am a large aquatic mammal.",
+            "I am gentle and slow.",
+            "I eat sea grass."
+        ]
+    },
+    {
+        "name": "walrus",
+        "altNames": [
+            "morse"
+        ],
+        "hints": [
+            "I have long tusks.",
+            "I live in the Arctic.",
+            "I am a large marine mammal."
+        ]
+    },
+    {
+        "name": "seal",
+        "altNames": [
+            "fur seal",
+            "harbor seal"
+        ],
+        "hints": [
+            "I have flippers.",
+            "I bark or clap.",
+            "I live in cold oceans."
+        ]
+    },
+    {
+        "name": "otter",
+        "altNames": [
+            "sea otter",
+            "river otter"
+        ],
+        "hints": [
+            "I am playful.",
+            "I use tools to open shells.",
+            "I have thick fur."
+        ]
+    },
+    {
+        "name": "platypus",
+        "altNames": [
+            "duck-billed platypus"
+        ],
+        "hints": [
+            "I lay eggs.",
+            "I have a bill like a duck.",
+            "I am a mammal from Australia."
+        ]
+    },
+    {
+        "name": "echidna",
+        "altNames": [
+            "spiny anteater"
+        ],
+        "hints": [
+            "I lay eggs.",
+            "I have spines.",
+            "I eat ants and termites."
+        ]
+    },
+    {
+        "name": "aardvark",
+        "altNames": [
+            "antbear"
+        ],
+        "hints": [
+            "I have a long snout.",
+            "I eat ants and termites.",
+            "I am nocturnal."
+        ]
+    },
+    {
+        "name": "armadillo",
+        "altNames": [
+            "nine-banded armadillo"
+        ],
+        "hints": [
+            "I have a hard shell.",
+            "I can roll into a ball.",
+            "I live in the Americas."
+        ]
+    },
+    {
+        "name": "pangolin",
+        "altNames": [
+            "scaly anteater"
+        ],
+        "hints": [
+            "I have scales.",
+            "I eat ants and termites.",
+            "I curl up when threatened."
+        ]
+    },
+    {
+        "name": "sloth bear",
+        "altNames": [
+            "honey bear"
+        ],
+        "hints": [
+            "I eat insects and fruit.",
+            "I have shaggy fur.",
+            "I live in India."
+        ]
+    },
+    {
+        "name": "sun bear",
+        "altNames": [
+            "honey bear"
+        ],
+        "hints": [
+            "I am the smallest bear.",
+            "I have a yellow chest patch.",
+            "I live in Southeast Asia."
+        ]
+    },
+    {
+        "name": "spectacled bear",
+        "altNames": [
+            "Andean bear"
+        ],
+        "hints": [
+            "I have white markings around my eyes.",
+            "I live in South America.",
+            "I am the only bear in South America."
+        ]
+    },
+    {
+        "name": "polar bear",
+        "altNames": [
+            "ice bear"
+        ],
+        "hints": [
+            "I have white fur.",
+            "I live in the Arctic.",
+            "I am a strong swimmer."
+        ]
+    },
+    {
+        "name": "brown bear",
+        "altNames": [
+            "grizzly bear"
+        ],
+        "hints": [
+            "I am large and brown.",
+            "I live in forests and mountains.",
+            "I hibernate in winter."
+        ]
+    },
+    {
+        "name": "black bear",
+        "altNames": [
+            "American black bear"
+        ],
+        "hints": [
+            "I am smaller than a brown bear.",
+            "I climb trees well.",
+            "I live in North America."
+        ]
+    },
+    {
+        "name": "giant anteater",
+        "altNames": [
+            "ant bear"
+        ],
+        "hints": [
+            "I have a long snout.",
+            "I eat ants and termites.",
+            "I have a bushy tail."
+        ]
+    },
+    {
+        "name": "okapi",
+        "altNames": [
+            "forest giraffe"
+        ],
+        "hints": [
+            "I am related to the giraffe.",
+            "I have striped legs.",
+            "I live in African rainforests."
+        ]
+    },
+    {
+        "name": "bongo",
+        "altNames": [
+            "forest antelope"
+        ],
+        "hints": [
+            "I have spiral horns.",
+            "I have reddish-brown fur with white stripes.",
+            "I live in African forests."
+        ]
+    },
+    {
+        "name": "kudu",
+        "altNames": [
+            "greater kudu",
+            "lesser kudu"
+        ],
+        "hints": [
+            "I have long, twisted horns.",
+            "I am an antelope.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "eland",
+        "altNames": [
+            "giant eland"
+        ],
+        "hints": [
+            "I am the largest antelope.",
+            "I have spiral horns.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "gazelle",
+        "altNames": [
+            "Thomson's gazelle",
+            "Grant's gazelle"
+        ],
+        "hints": [
+            "I am a small antelope.",
+            "I am very fast.",
+            "I live on African plains."
+        ]
+    },
+    {
+        "name": "impala",
+        "altNames": [
+            "black-faced impala"
+        ],
+        "hints": [
+            "I am a medium-sized antelope.",
+            "I can leap far.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "springbok",
+        "altNames": [
+            "springbuck"
+        ],
+        "hints": [
+            "I am a small antelope.",
+            "I can leap high in the air.",
+            "I am the national animal of South Africa."
+        ]
+    },
+    {
+        "name": "oryx",
+        "altNames": [
+            "gemsbok"
+        ],
+        "hints": [
+            "I have long, straight horns.",
+            "I live in deserts.",
+            "I am an antelope."
+        ]
+    },
+    {
+        "name": "wildebeest",
+        "altNames": [
+            "gnu"
+        ],
+        "hints": [
+            "I have a large head and beard.",
+            "I migrate in herds.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "hartebeest",
+        "altNames": [
+            "kongoni"
+        ],
+        "hints": [
+            "I have a sloping back.",
+            "I have ringed horns.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "topi",
+        "altNames": [
+            "tsessebe"
+        ],
+        "hints": [
+            "I am a fast antelope.",
+            "I have purplish fur.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "sable antelope",
+        "altNames": [
+            "sable"
+        ],
+        "hints": [
+            "I have long, curved horns.",
+            "I am black with a white face.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "roan antelope",
+        "altNames": [
+            "roan"
+        ],
+        "hints": [
+            "I have long, ringed horns.",
+            "I have a light brown coat.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "waterbuck",
+        "altNames": [
+            "defassa waterbuck"
+        ],
+        "hints": [
+            "I have a white ring on my rump.",
+            "I live near water.",
+            "I am an antelope."
+        ]
+    },
+    {
+        "name": "duiker",
+        "altNames": [
+            "blue duiker",
+            "red duiker"
+        ],
+        "hints": [
+            "I am a small antelope.",
+            "I live in forests.",
+            "I am shy and elusive."
+        ]
+    },
+    {
+        "name": "dik-dik",
+        "altNames": [
+            "kirk's dik-dik"
+        ],
+        "hints": [
+            "I am a tiny antelope.",
+            "I have a long nose.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "steenbok",
+        "altNames": [
+            "steinbok"
+        ],
+        "hints": [
+            "I am a small antelope.",
+            "I have upright horns.",
+            "I live in southern Africa."
+        ]
+    },
+    {
+        "name": "klipspringer",
+        "altNames": [
+            "rock jumper"
+        ],
+        "hints": [
+            "I am a small antelope.",
+            "I have rubbery hooves.",
+            "I live on rocky hills."
+        ]
+    },
+    {
+        "name": "bushbuck",
+        "altNames": [
+            "harnessed bushbuck"
+        ],
+        "hints": [
+            "I have white spots and stripes.",
+            "I am a shy antelope.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "nyala",
+        "altNames": [
+            "lowland nyala"
+        ],
+        "hints": [
+            "I have spiral horns.",
+            "I have a shaggy coat.",
+            "I live in southern Africa."
+        ]
+    },
+    {
+        "name": "reedbuck",
+        "altNames": [
+            "common reedbuck"
+        ],
+        "hints": [
+            "I have curved horns.",
+            "I live in grasslands.",
+            "I am an antelope."
+        ]
+    },
+    {
+        "name": "kob",
+        "altNames": [
+            "Ugandan kob"
+        ],
+        "hints": [
+            "I am a medium-sized antelope.",
+            "I have ringed horns.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "lechwe",
+        "altNames": [
+            "red lechwe"
+        ],
+        "hints": [
+            "I have long legs.",
+            "I live in wetlands.",
+            "I am an antelope."
+        ]
+    },
+    {
+        "name": "puku",
+        "altNames": [
+            "southern puku"
+        ],
+        "hints": [
+            "I am a medium-sized antelope.",
+            "I have a shaggy coat.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "sitatunga",
+        "altNames": [
+            "marshbuck"
+        ],
+        "hints": [
+            "I have splayed hooves.",
+            "I live in swamps.",
+            "I am an antelope."
+        ]
+    },
+    {
+        "name": "addax",
+        "altNames": [
+            "white antelope"
+        ],
+        "hints": [
+            "I have long, twisted horns.",
+            "I live in deserts.",
+            "I am critically endangered."
+        ]
+    },
+    {
+        "name": "oryx",
+        "altNames": [
+            "scimitar oryx"
+        ],
+        "hints": [
+            "I have long, straight horns.",
+            "I live in deserts.",
+            "I am an antelope."
+        ]
+    },
+    {
+        "name": "giraffe weevil",
+        "altNames": [
+            "trachelophorus giraffa"
+        ],
+        "hints": [
+            "I am an insect with a long neck.",
+            "I am native to Madagascar.",
+            "I am named after a mammal."
+        ]
+    },
+    {
+        "name": "tarsier",
+        "altNames": [
+            "spectral tarsier"
+        ],
+        "hints": [
+            "I am a small primate.",
+            "I have huge eyes.",
+            "I live in Southeast Asia."
+        ]
+    },
+    {
+        "name": "lemur",
+        "altNames": [
+            "ring-tailed lemur"
+        ],
+        "hints": [
+            "I am a primate from Madagascar.",
+            "I have a striped tail.",
+            "I am active during the day."
+        ]
+    },
+    {
+        "name": "aye-aye",
+        "altNames": [
+            "ayeaye"
+        ],
+        "hints": [
+            "I am a nocturnal lemur.",
+            "I have a long middle finger.",
+            "I live in Madagascar."
+        ]
+    },
+    {
+        "name": "galago",
+        "altNames": [
+            "bush baby"
+        ],
+        "hints": [
+            "I am a small primate.",
+            "I have large eyes and ears.",
+            "I leap between trees."
+        ]
+    },
+    {
+        "name": "slow loris",
+        "altNames": [
+            "loris"
+        ],
+        "hints": [
+            "I am a slow-moving primate.",
+            "I have a toxic bite.",
+            "I live in Southeast Asia."
+        ]
+    },
+    {
+        "name": "colobus monkey",
+        "altNames": [
+            "colobus"
+        ],
+        "hints": [
+            "I have black and white fur.",
+            "I live in African forests.",
+            "I eat leaves."
+        ]
+    },
+    {
+        "name": "proboscis monkey",
+        "altNames": [
+            "long-nosed monkey"
+        ],
+        "hints": [
+            "I have a large nose.",
+            "I am a good swimmer.",
+            "I live in Borneo."
+        ]
+    },
+    {
+        "name": "mandrill",
+        "altNames": [
+            "drill"
+        ],
+        "hints": [
+            "I have a colorful face.",
+            "I have long canine teeth.",
+            "I live in African forests."
+        ]
+    },
+    {
+        "name": "howler monkey",
+        "altNames": [
+            "howler"
+        ],
+        "hints": [
+            "I am a loud monkey.",
+            "I live in Central and South America.",
+            "I have a prehensile tail."
+        ]
+    },
+    {
+        "name": "spider monkey",
+        "altNames": [
+            "ateles"
+        ],
+        "hints": [
+            "I have long limbs and tail.",
+            "I live in the Americas.",
+            "I am very agile."
+        ]
+    },
+    {
+        "name": "capuchin monkey",
+        "altNames": [
+            "capuchin"
+        ],
+        "hints": [
+            "I am a small monkey.",
+            "I am very intelligent.",
+            "I am often seen with organ grinders."
+        ]
+    },
+    {
+        "name": "squirrel monkey",
+        "altNames": [
+            "saimiri"
+        ],
+        "hints": [
+            "I am a small monkey.",
+            "I have a long tail.",
+            "I live in Central and South America."
+        ]
+    },
+    {
+        "name": "uakari",
+        "altNames": [
+            "bald uakari"
+        ],
+        "hints": [
+            "I have a red face.",
+            "I have a short tail.",
+            "I live in the Amazon."
+        ]
+    },
+    {
+        "name": "tamarin",
+        "altNames": [
+            "emperor tamarin",
+            "golden lion tamarin"
+        ],
+        "hints": [
+            "I am a small monkey.",
+            "I have a mustache or golden mane.",
+            "I live in South America."
+        ]
+    },
+    {
+        "name": "marmoset",
+        "altNames": [
+            "pygmy marmoset"
+        ],
+        "hints": [
+            "I am the smallest monkey.",
+            "I have claw-like nails.",
+            "I live in South America."
+        ]
+    },
+    {
+        "name": "guenon",
+        "altNames": [
+            "vervet monkey"
+        ],
+        "hints": [
+            "I am a colorful monkey.",
+            "I live in Africa.",
+            "I have a long tail."
+        ]
+    },
+    {
+        "name": "langur",
+        "altNames": [
+            "gray langur"
+        ],
+        "hints": [
+            "I am a long-tailed monkey.",
+            "I live in Asia.",
+            "I am sacred in India."
+        ]
+    },
+    {
+        "name": "snub-nosed monkey",
+        "altNames": [
+            "golden snub-nosed monkey"
+        ],
+        "hints": [
+            "I have a short, upturned nose.",
+            "I live in China.",
+            "I have thick fur."
+        ]
+    },
+    {
+        "name": "gibbon",
+        "altNames": [
+            "siamang"
+        ],
+        "hints": [
+            "I am a small ape.",
+            "I swing through trees.",
+            "I sing loud songs."
+        ]
+    },
+    {
+        "name": "bonobo",
+        "altNames": [
+            "pygmy chimpanzee"
+        ],
+        "hints": [
+            "I am closely related to humans.",
+            "I am peaceful and social.",
+            "I live in the Congo."
+        ]
+    },
+    {
+        "name": "orangutan",
+        "altNames": [
+            "red ape"
+        ],
+        "hints": [
+            "I have long orange hair.",
+            "I live in trees in Borneo and Sumatra.",
+            "I am a great ape."
+        ]
+    },
+    {
+        "name": "gorilla",
+        "altNames": [
+            "western gorilla",
+            "eastern gorilla"
+        ],
+        "hints": [
+            "I am the largest primate.",
+            "I live in groups called troops.",
+            "I am mostly vegetarian."
+        ]
+    },
+    {
+        "name": "lemur catta",
+        "altNames": [
+            "ring-tailed lemur"
+        ],
+        "hints": [
+            "I have a striped tail.",
+            "I live in Madagascar.",
+            "I am active during the day."
+        ]
+    },
+    {
+        "name": "fossa",
+        "altNames": [
+            "cryptoprocta"
+        ],
+        "hints": [
+            "I am a carnivore from Madagascar.",
+            "I look like a small cougar.",
+            "I hunt lemurs."
+        ]
+    },
+    {
+        "name": "mongoose",
+        "altNames": [
+            "meerkat"
+        ],
+        "hints": [
+            "I am a small carnivore.",
+            "I eat snakes.",
+            "I live in groups."
+        ]
+    },
+    {
+        "name": "civet",
+        "altNames": [
+            "palm civet"
+        ],
+        "hints": [
+            "I am a small, nocturnal mammal.",
+            "I have a musky scent.",
+            "I live in Asia and Africa."
+        ]
+    },
+    {
+        "name": "genet",
+        "altNames": [
+            "common genet"
+        ],
+        "hints": [
+            "I am a slender, spotted mammal.",
+            "I have a long tail.",
+            "I live in Africa and Europe."
+        ]
+    },
+    {
+        "name": "hyena",
+        "altNames": [
+            "spotted hyena",
+            "striped hyena"
+        ],
+        "hints": [
+            "I am a scavenger.",
+            "I have a strong bite.",
+            "I laugh loudly."
+        ]
+    },
+    {
+        "name": "aardwolf",
+        "altNames": [
+            "protelid"
+        ],
+        "hints": [
+            "I am related to hyenas.",
+            "I eat termites.",
+            "I am nocturnal."
+        ]
+    },
+    {
+        "name": "dhole",
+        "altNames": [
+            "asian wild dog"
+        ],
+        "hints": [
+            "I am a wild dog from Asia.",
+            "I hunt in packs.",
+            "I have a whistling call."
+        ]
+    },
+    {
+        "name": "jackal",
+        "altNames": [
+            "golden jackal",
+            "side-striped jackal"
+        ],
+        "hints": [
+            "I am a small wild canine.",
+            "I am an opportunistic feeder.",
+            "I live in Africa and Asia."
+        ]
+    },
+    {
+        "name": "coyote",
+        "altNames": [
+            "prairie wolf"
+        ],
+        "hints": [
+            "I am a wild canine.",
+            "I howl at night.",
+            "I live in North America."
+        ]
+    },
+    {
+        "name": "dingo",
+        "altNames": [
+            "australian wild dog"
+        ],
+        "hints": [
+            "I am a wild dog from Australia.",
+            "I have a ginger coat.",
+            "I am an apex predator."
+        ]
+    },
+    {
+        "name": "red fox",
+        "altNames": [
+            "vulpes vulpes"
+        ],
+        "hints": [
+            "I have a bushy tail.",
+            "I am clever and sly.",
+            "I am found across the Northern Hemisphere."
+        ]
+    },
+    {
+        "name": "arctic fox",
+        "altNames": [
+            "white fox"
+        ],
+        "hints": [
+            "I have white fur in winter.",
+            "I live in the Arctic.",
+            "I have a fluffy tail."
+        ]
+    },
+    {
+        "name": "fennec fox",
+        "altNames": [
+            "desert fox"
+        ],
+        "hints": [
+            "I have large ears.",
+            "I live in the Sahara.",
+            "I am the smallest fox."
+        ]
+    },
+    {
+        "name": "gray wolf",
+        "altNames": [
+            "timber wolf"
+        ],
+        "hints": [
+            "I am the largest wild canine.",
+            "I live in packs.",
+            "I howl at the moon."
+        ]
+    },
+    {
+        "name": "maned wolf",
+        "altNames": [
+            "chrysocyon"
+        ],
+        "hints": [
+            "I have long legs.",
+            "I live in South America.",
+            "I eat fruit and small animals."
+        ]
+    },
+    {
+        "name": "african wild dog",
+        "altNames": [
+            "painted wolf"
+        ],
+        "hints": [
+            "I have large round ears.",
+            "I hunt in packs.",
+            "I am endangered."
+        ]
+    },
+    {
+        "name": "bush dog",
+        "altNames": [
+            "savannah dog"
+        ],
+        "hints": [
+            "I am a small wild dog.",
+            "I live in South America.",
+            "I have webbed feet."
+        ]
+    },
+    {
+        "name": "raccoon",
+        "altNames": [
+            "coati"
+        ],
+        "hints": [
+            "I have a ringed tail.",
+            "I am nocturnal.",
+            "I wash my food."
+        ]
+    },
+    {
+        "name": "kinkajou",
+        "altNames": [
+            "honey bear"
+        ],
+        "hints": [
+            "I am a rainforest mammal.",
+            "I have a prehensile tail.",
+            "I eat fruit and honey."
+        ]
+    },
+    {
+        "name": "wolverine",
+        "altNames": [
+            "glutton"
+        ],
+        "hints": [
+            "I am fierce and strong.",
+            "I live in cold forests.",
+            "I am related to weasels."
+        ]
+    },
+    {
+        "name": "badger",
+        "altNames": [
+            "european badger",
+            "american badger"
+        ],
+        "hints": [
+            "I am a burrowing mammal.",
+            "I have a striped face.",
+            "I am tough and strong."
+        ]
+    },
+    {
+        "name": "otter",
+        "altNames": [
+            "sea otter",
+            "river otter"
+        ],
+        "hints": [
+            "I am playful.",
+            "I use tools to open shells.",
+            "I have thick fur."
+        ]
+    },
+    {
+        "name": "mink",
+        "altNames": [
+            "american mink"
+        ],
+        "hints": [
+            "I am a small, semi-aquatic mammal.",
+            "I have soft fur.",
+            "I am a good swimmer."
+        ]
+    },
+    {
+        "name": "ferret",
+        "altNames": [
+            "polecat"
+        ],
+        "hints": [
+            "I am a domesticated mustelid.",
+            "I am playful and curious.",
+            "I am used for hunting rabbits."
+        ]
+    },
+    {
+        "name": "ermine",
+        "altNames": [
+            "stoat"
+        ],
+        "hints": [
+            "I have a white winter coat.",
+            "I am a small carnivore.",
+            "I am found in Eurasia and North America."
+        ]
+    },
+    {
+        "name": "weasel",
+        "altNames": [
+            "least weasel"
+        ],
+        "hints": [
+            "I am a small, slender carnivore.",
+            "I eat rodents.",
+            "I am very agile."
+        ]
+    },
+    {
+        "name": "skunk",
+        "altNames": [
+            "striped skunk"
+        ],
+        "hints": [
+            "I spray a foul odor.",
+            "I have black and white fur.",
+            "I am nocturnal."
+        ]
+    },
+    {
+        "name": "marten",
+        "altNames": [
+            "pine marten"
+        ],
+        "hints": [
+            "I am a tree-dwelling mustelid.",
+            "I have a bushy tail.",
+            "I eat small animals and fruit."
+        ]
+    },
+    {
+        "name": "fisher",
+        "altNames": [
+            "fisher cat"
+        ],
+        "hints": [
+            "I am a forest-dwelling mustelid.",
+            "I am a good climber.",
+            "I eat porcupines."
+        ]
+    },
+    {
+        "name": "porcupine",
+        "altNames": [
+            "crested porcupine"
+        ],
+        "hints": [
+            "I have sharp quills.",
+            "I am a rodent.",
+            "I defend myself by raising my quills."
+        ]
+    },
+    {
+        "name": "beaver",
+        "altNames": [
+            "american beaver",
+            "european beaver"
+        ],
+        "hints": [
+            "I build dams.",
+            "I have a flat tail.",
+            "I am a large rodent."
+        ]
+    },
+    {
+        "name": "capybara",
+        "altNames": [
+            "hydrochoerus"
+        ],
+        "hints": [
+            "I am the largest rodent.",
+            "I live in South America.",
+            "I love water."
+        ]
+    },
+    {
+        "name": "agouti",
+        "altNames": [
+            "common agouti"
+        ],
+        "hints": [
+            "I am a rodent from Central and South America.",
+            "I have short ears and a short tail.",
+            "I eat fruit and nuts."
+        ]
+    },
+    {
+        "name": "paca",
+        "altNames": [
+            "spotted paca"
+        ],
+        "hints": [
+            "I am a large rodent.",
+            "I have white spots.",
+            "I live in Central and South America."
+        ]
+    },
+    {
+        "name": "guinea pig",
+        "altNames": [
+            "cavy"
+        ],
+        "hints": [
+            "I am a small, tailless rodent.",
+            "I squeak.",
+            "I am popular as a pet."
+        ]
+    },
+    {
+        "name": "chinchilla",
+        "altNames": [
+            "long-tailed chinchilla"
+        ],
+        "hints": [
+            "I have very soft fur.",
+            "I am a rodent from the Andes.",
+            "I am active at night."
+        ]
+    },
+    {
+        "name": "degu",
+        "altNames": [
+            "common degu"
+        ],
+        "hints": [
+            "I am a small rodent.",
+            "I am native to Chile.",
+            "I am social and diurnal."
+        ]
+    },
+    {
+        "name": "jerboa",
+        "altNames": [
+            "desert jerboa"
+        ],
+        "hints": [
+            "I am a small rodent.",
+            "I have long hind legs.",
+            "I live in deserts."
+        ]
+    },
+    {
+        "name": "kangaroo rat",
+        "altNames": [
+            "desert rat"
+        ],
+        "hints": [
+            "I am a small rodent.",
+            "I hop like a kangaroo.",
+            "I live in North American deserts."
+        ]
+    },
+    {
+        "name": "pack rat",
+        "altNames": [
+            "woodrat"
+        ],
+        "hints": [
+            "I am a rodent.",
+            "I collect shiny objects.",
+            "I live in North America."
+        ]
+    },
+    {
+        "name": "muskrat",
+        "altNames": [
+            "ondatra"
+        ],
+        "hints": [
+            "I am a semi-aquatic rodent.",
+            "I build lodges in water.",
+            "I am found in North America."
+        ]
+    },
+    {
+        "name": "lemming",
+        "altNames": [
+            "collared lemming"
+        ],
+        "hints": [
+            "I am a small rodent.",
+            "I live in the Arctic.",
+            "I am known for population booms."
+        ]
+    },
+    {
+        "name": "vole",
+        "altNames": [
+            "field mouse"
+        ],
+        "hints": [
+            "I am a small rodent.",
+            "I have a short tail.",
+            "I live in grasslands and forests."
+        ]
+    },
+    {
+        "name": "mole",
+        "altNames": [
+            "european mole"
+        ],
+        "hints": [
+            "I am a burrowing mammal.",
+            "I have large front paws.",
+            "I am nearly blind."
+        ]
+    },
+    {
+        "name": "shrew",
+        "altNames": [
+            "common shrew"
+        ],
+        "hints": [
+            "I am a tiny mammal.",
+            "I have a pointed nose.",
+            "I eat insects."
+        ]
+    },
+    {
+        "name": "hedgehog",
+        "altNames": [
+            "european hedgehog"
+        ],
+        "hints": [
+            "I have spines.",
+            "I curl into a ball.",
+            "I eat insects and worms."
+        ]
+    },
+    {
+        "name": "tenrec",
+        "altNames": [
+            "common tenrec"
+        ],
+        "hints": [
+            "I am a small mammal from Madagascar.",
+            "I look like a hedgehog or shrew.",
+            "I am very diverse."
+        ]
+    },
+    {
+        "name": "elephant shrew",
+        "altNames": [
+            "sengi"
+        ],
+        "hints": [
+            "I am a small insectivore.",
+            "I have a long nose.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "solenodon",
+        "altNames": [
+            "haitian solenodon"
+        ],
+        "hints": [
+            "I am a rare, venomous mammal.",
+            "I have a long snout.",
+            "I live in the Caribbean."
+        ]
+    },
+    {
+        "name": "bat-eared fox",
+        "altNames": [
+            "otocyon"
+        ],
+        "hints": [
+            "I have very large ears.",
+            "I eat insects.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "flying fox",
+        "altNames": [
+            "fruit bat"
+        ],
+        "hints": [
+            "I am a large bat.",
+            "I eat fruit.",
+            "I live in the tropics."
+        ]
+    },
+    {
+        "name": "pipistrelle",
+        "altNames": [
+            "common pipistrelle"
+        ],
+        "hints": [
+            "I am a small bat.",
+            "I eat insects.",
+            "I am found in Europe and Asia."
+        ]
+    },
+    {
+        "name": "vampire bat",
+        "altNames": [
+            "desmodus"
+        ],
+        "hints": [
+            "I drink blood.",
+            "I am a bat.",
+            "I live in the Americas."
+        ]
+    },
+    {
+        "name": "horseshoe bat",
+        "altNames": [
+            "rhinolophus"
+        ],
+        "hints": [
+            "I have a horseshoe-shaped nose.",
+            "I use echolocation.",
+            "I am found in Europe, Africa, and Asia."
+        ]
+    },
+    {
+        "name": "hammerhead bat",
+        "altNames": [
+            "hypsignathus"
+        ],
+        "hints": [
+            "I have a large head.",
+            "I am a fruit bat.",
+            "I live in Africa."
+        ]
+    },
+    {
+        "name": "pangolin",
+        "altNames": [
+            "scaly anteater"
+        ],
+        "hints": [
+            "I have scales.",
+            "I eat ants and termites.",
+            "I curl up when threatened."
+        ]
+    },
+    {
+        "name": "dugong",
+        "altNames": [
+            "sea cow"
+        ],
+        "hints": [
+            "I am a marine mammal.",
+            "I am related to manatees.",
+            "I graze on sea grass."
+        ]
+    },
+    {
+        "name": "narwhal",
+        "altNames": [
+            "unicorn of the sea"
+        ],
+        "hints": [
+            "I have a long spiral tusk.",
+            "I live in the Arctic.",
+            "I am a type of whale."
+        ]
+    },
+    {
+        "name": "beluga whale",
+        "altNames": [
+            "white whale"
+        ],
+        "hints": [
+            "I am a small, white whale.",
+            "I can mimic sounds.",
+            "I live in the Arctic."
+        ]
+    },
+    {
+        "name": "orca",
+        "altNames": [
+            "killer whale"
+        ],
+        "hints": [
+            "I am a black and white dolphin.",
+            "I am a top predator.",
+            "I live in oceans worldwide."
+        ]
+    },
+    {
+        "name": "pilot whale",
+        "altNames": [
+            "blackfish"
+        ],
+        "hints": [
+            "I am a large dolphin.",
+            "I live in groups called pods.",
+            "I am found in deep oceans."
+        ]
+    },
+    {
+        "name": "sperm whale",
+        "altNames": [
+            "cachalot"
+        ],
+        "hints": [
+            "I have a large, block-shaped head.",
+            "I dive deep for squid.",
+            "I am the largest toothed whale."
+        ]
+    },
+    {
+        "name": "blue whale",
+        "altNames": [
+            "balaenoptera"
+        ],
+        "hints": [
+            "I am the largest animal ever.",
+            "I eat krill.",
+            "I live in all oceans."
+        ]
+    },
+    {
+        "name": "fin whale",
+        "altNames": [
+            "finback whale"
+        ],
+        "hints": [
+            "I am the second largest whale.",
+            "I am very fast.",
+            "I have a prominent dorsal fin."
+        ]
+    },
+    {
+        "name": "humpback whale",
+        "altNames": [
+            "megaptera"
+        ],
+        "hints": [
+            "I am known for my songs.",
+            "I have long pectoral fins.",
+            "I breach out of the water."
+        ]
+    },
+    {
+        "name": "gray whale",
+        "altNames": [
+            "devil fish"
+        ],
+        "hints": [
+            "I migrate long distances.",
+            "I have barnacles on my skin.",
+            "I live in the Pacific Ocean."
+        ]
+    },
+    {
+        "name": "minke whale",
+        "altNames": [
+            "little piked whale"
+        ],
+        "hints": [
+            "I am the smallest baleen whale.",
+            "I am found in all oceans.",
+            "I am fast and agile."
+        ]
+    },
+    {
+        "name": "right whale",
+        "altNames": [
+            "northern right whale"
+        ],
+        "hints": [
+            "I have a large head.",
+            "I am slow-moving.",
+            "I was hunted for oil and baleen."
+        ]
+    },
+    {
+        "name": "bowhead whale",
+        "altNames": [
+            "arctic whale"
+        ],
+        "hints": [
+            "I live in Arctic waters.",
+            "I have a massive bow-shaped head.",
+            "I can live over 200 years."
+        ]
+    },
+    {
+        "name": "sei whale",
+        "altNames": [
+            "balaenoptera borealis"
+        ],
+        "hints": [
+            "I am a large baleen whale.",
+            "I am fast and slender.",
+            "I eat plankton and fish."
+        ]
+    },
+    {
+        "name": "bryde's whale",
+        "altNames": [
+            "tropical whale"
+        ],
+        "hints": [
+            "I am a medium-sized baleen whale.",
+            "I live in warm oceans.",
+            "I am hard to distinguish from other whales."
+        ]
+    },
+    {
+        "name": "pygmy sperm whale",
+        "altNames": [
+            "kogia"
+        ],
+        "hints": [
+            "I am a small whale.",
+            "I can squirt ink like a squid.",
+            "I am rarely seen."
+        ]
+    },
+    {
+        "name": "dwarf sperm whale",
+        "altNames": [
+            "kogia sima"
+        ],
+        "hints": [
+            "I am the smallest whale.",
+            "I can squirt ink.",
+            "I am found in deep waters."
+        ]
+    },
+    {
+        "name": "false killer whale",
+        "altNames": [
+            "pseudorca"
+        ],
+        "hints": [
+            "I am a large dolphin.",
+            "I am black or dark gray.",
+            "I live in warm oceans."
+        ]
+    },
+    {
+        "name": "melon-headed whale",
+        "altNames": [
+            "peponocephala"
+        ],
+        "hints": [
+            "I have a rounded head.",
+            "I live in deep tropical waters.",
+            "I am a small whale."
+        ]
+    },
+    {
+        "name": "frilled shark",
+        "altNames": [
+            "living fossil"
+        ],
+        "hints": [
+            "I have a frilled appearance.",
+            "I live in deep oceans.",
+            "I am rarely seen."
+        ]
+    },
+    {
+        "name": "goblin shark",
+        "altNames": [
+            "elusive shark"
+        ],
+        "hints": [
+            "I have a long, flat snout.",
+            "I live in deep water.",
+            "I am pinkish in color."
+        ]
+    },
+    {
+        "name": "hammerhead shark",
+        "altNames": [
+            "great hammerhead"
+        ],
+        "hints": [
+            "I have a hammer-shaped head.",
+            "I am a type of shark.",
+            "I live in warm oceans."
+        ]
+    },
+    {
+        "name": "tiger shark",
+        "altNames": [
+            "sea tiger"
+        ],
+        "hints": [
+            "I have dark stripes.",
+            "I am a large shark.",
+            "I eat almost anything."
+        ]
+    },
+    {
+        "name": "bull shark",
+        "altNames": [
+            "zambezi shark"
+        ],
+        "hints": [
+            "I can live in fresh and salt water.",
+            "I am aggressive.",
+            "I am found in warm, shallow waters."
+        ]
+    },
+    {
+        "name": "whale shark",
+        "altNames": [
+            "rhincodon"
+        ],
+        "hints": [
+            "I am the largest fish.",
+            "I have a spotted body.",
+            "I eat plankton."
+        ]
+    },
+    {
+        "name": "basking shark",
+        "altNames": [
+            "cetorhinus"
+        ],
+        "hints": [
+            "I am the second largest fish.",
+            "I swim with my mouth open.",
+            "I eat plankton."
+        ]
+    },
+    {
+        "name": "great white shark",
+        "altNames": [
+            "white shark"
+        ],
+        "hints": [
+            "I am a large predatory shark.",
+            "I have a white belly.",
+            "I am famous from movies."
+        ]
+    },
+    {
+        "name": "mako shark",
+        "altNames": [
+            "shortfin mako"
+        ],
+        "hints": [
+            "I am a very fast shark.",
+            "I have a pointed snout.",
+            "I am found in temperate and tropical seas."
+        ]
+    },
+    {
+        "name": "blue shark",
+        "altNames": [
+            "prionace"
+        ],
+        "hints": [
+            "I have a slender body.",
+            "I am blue in color.",
+            "I am found in deep waters."
+        ]
+    },
+    {
+        "name": "lemon shark",
+        "altNames": [
+            "negaprion"
+        ],
+        "hints": [
+            "I am yellowish in color.",
+            "I live in shallow subtropical waters.",
+            "I am social and often found in groups."
+        ]
+    },
+    {
+        "name": "nurse shark",
+        "altNames": [
+            "ginglymostoma"
+        ],
+        "hints": [
+            "I am a slow-moving shark.",
+            "I rest on the sea floor.",
+            "I am harmless to humans."
+        ]
+    },
+    {
+        "name": "sawfish",
+        "altNames": [
+            "carpenter shark"
+        ],
+        "hints": [
+            "I have a long, saw-like snout.",
+            "I am a type of ray.",
+            "I live in coastal waters."
+        ]
+    },
+    {
+        "name": "stingray",
+        "altNames": [
+            "whipray"
+        ],
+        "hints": [
+            "I have a flat body.",
+            "I have a venomous tail spine.",
+            "I live on the sea floor."
+        ]
+    },
+    {
+        "name": "manta ray",
+        "altNames": [
+            "devilfish"
+        ],
+        "hints": [
+            "I am the largest ray.",
+            "I have triangular pectoral fins.",
+            "I leap out of the water."
+        ]
+    },
+    {
+        "name": "electric ray",
+        "altNames": [
+            "torpedo ray"
+        ],
+        "hints": [
+            "I can produce electric shocks.",
+            "I have a rounded body.",
+            "I live on the sea floor."
+        ]
+    },
+    {
+        "name": "guitarfish",
+        "altNames": [
+            "rhinobatos"
+        ],
+        "hints": [
+            "I have a body shaped like a guitar.",
+            "I am related to rays and sharks.",
+            "I live in shallow waters."
+        ]
+    },
+    {
+        "name": "sawshark",
+        "altNames": [
+            "pristiophoridae"
+        ],
+        "hints": [
+            "I have a long, saw-like snout.",
+            "I am a type of shark.",
+            "I live in deep waters."
+        ]
+    },
+    {
+        "name": "lamprey",
+        "altNames": [
+            "jawless fish"
+        ],
+        "hints": [
+            "I have a round, sucker mouth.",
+            "I am a parasite.",
+            "I live in fresh and salt water."
+        ]
+    },
+    {
+        "name": "hagfish",
+        "altNames": [
+            "slime eel"
+        ],
+        "hints": [
+            "I produce slime.",
+            "I have no jaws.",
+            "I am a scavenger."
+        ]
+    },
+    {
+        "name": "coelacanth",
+        "altNames": [
+            "living fossil"
+        ],
+        "hints": [
+            "I am a rare, ancient fish.",
+            "I have lobed fins.",
+            "I was thought extinct."
+        ]
+    },
+    {
+        "name": "lungfish",
+        "altNames": [
+            "salamanderfish"
+        ],
+        "hints": [
+            "I can breathe air.",
+            "I have both gills and lungs.",
+            "I live in Africa, South America, and Australia."
+        ]
+    },
+    {
+        "name": "arapaima",
+        "altNames": [
+            "pirarucu"
+        ],
+        "hints": [
+            "I am a giant freshwater fish.",
+            "I live in the Amazon.",
+            "I can breathe air."
+        ]
+    },
+    {
+        "name": "piranha",
+        "altNames": [
+            "caribe"
+        ],
+        "hints": [
+            "I have sharp teeth.",
+            "I live in South American rivers.",
+            "I am a carnivorous fish."
+        ]
+    },
+    {
+        "name": "catfish",
+        "altNames": [
+            "channel catfish",
+            "wels catfish"
+        ],
+        "hints": [
+            "I have whisker-like barbels.",
+            "I live in fresh water.",
+            "I am a popular food fish."
+        ]
+    },
+    {
+        "name": "eel",
+        "altNames": [
+            "moray eel",
+            "conger eel"
+        ],
+        "hints": [
+            "I have a long, snake-like body.",
+            "I live in fresh and salt water.",
+            "Some of my kind are electric."
+        ]
+    },
+    {
+        "name": "salmon",
+        "altNames": [
+            "atlantic salmon",
+            "chinook salmon"
+        ],
+        "hints": [
+            "I migrate to spawn.",
+            "I am a popular food fish.",
+            "I live in the Atlantic and Pacific."
+        ]
+    },
+    {
+        "name": "trout",
+        "altNames": [
+            "rainbow trout",
+            "brown trout"
+        ],
+        "hints": [
+            "I am a freshwater fish.",
+            "I am popular with anglers.",
+            "I have spots on my body."
+        ]
+    },
+    {
+        "name": "bass",
+        "altNames": [
+            "largemouth bass",
+            "smallmouth bass"
+        ],
+        "hints": [
+            "I am a popular sport fish.",
+            "I live in lakes and rivers.",
+            "I have a large mouth."
+        ]
+    },
+    {
+        "name": "perch",
+        "altNames": [
+            "yellow perch"
+        ],
+        "hints": [
+            "I am a freshwater fish.",
+            "I have vertical stripes.",
+            "I am found in North America and Europe."
+        ]
+    },
+    {
+        "name": "tilapia",
+        "altNames": [
+            "cichlid"
+        ],
+        "hints": [
+            "I am a freshwater fish.",
+            "I am farmed for food.",
+            "I am native to Africa."
+        ]
+    },
+    {
+        "name": "guppy",
+        "altNames": [
+            "millionfish"
+        ],
+        "hints": [
+            "I am a small aquarium fish.",
+            "I am colorful.",
+            "I give birth to live young."
+        ]
+    },
+    {
+        "name": "goldfish",
+        "altNames": [
+            "carassius"
+        ],
+        "hints": [
+            "I am a popular pet fish.",
+            "I am orange or gold.",
+            "I am a type of carp."
+        ]
+    },
+    {
+        "name": "koi",
+        "altNames": [
+            "nishikigoi"
+        ],
+        "hints": [
+            "I am a colorful carp.",
+            "I am kept in ponds.",
+            "I am a symbol of luck in Japan."
+        ]
+    },
+    {
+        "name": "betta",
+        "altNames": [
+            "siamese fighting fish"
+        ],
+        "hints": [
+            "I am a small, colorful fish.",
+            "I am aggressive to other males.",
+            "I am popular in aquariums."
+        ]
+    },
+    {
+        "name": "angelfish",
+        "altNames": [
+            "pterophyllum"
+        ],
+        "hints": [
+            "I am a freshwater aquarium fish.",
+            "I have long fins.",
+            "I am native to South America."
+        ]
+    },
+    {
+        "name": "discus",
+        "altNames": [
+            "pompadour fish"
+        ],
+        "hints": [
+            "I am a round, flat fish.",
+            "I am colorful.",
+            "I am native to the Amazon."
+        ]
+    },
+    {
+        "name": "oscar",
+        "altNames": [
+            "velvet cichlid"
+        ],
+        "hints": [
+            "I am a large aquarium fish.",
+            "I am intelligent.",
+            "I am native to South America."
+        ]
+    },
+    {
+        "name": "pufferfish",
+        "altNames": [
+            "fugu",
+            "blowfish"
+        ],
+        "hints": [
+            "I can inflate my body.",
+            "I am poisonous.",
+            "I live in the ocean."
+        ]
+    },
+    {
+        "name": "lionfish",
+        "altNames": [
+            "turkeyfish"
+        ],
+        "hints": [
+            "I have long, venomous spines.",
+            "I am a colorful fish.",
+            "I am invasive in the Atlantic."
+        ]
+    },
+    {
+        "name": "clownfish",
+        "altNames": [
+            "anemonefish"
+        ],
+        "hints": [
+            "I am orange with white stripes.",
+            "I live among sea anemones.",
+            "I am famous from a movie."
+        ]
+    },
+    {
+        "name": "damselfish",
+        "altNames": [
+            "sergeant major"
+        ],
+        "hints": [
+            "I am a small, colorful fish.",
+            "I am territorial.",
+            "I live in coral reefs."
+        ]
+    },
+    {
+        "name": "wrasse",
+        "altNames": [
+            "cleaner wrasse"
+        ],
+        "hints": [
+            "I am a colorful reef fish.",
+            "I clean parasites from other fish.",
+            "I am found in tropical oceans."
+        ]
+    },
+    {
+        "name": "parrotfish",
+        "altNames": [
+            "scaridae"
+        ],
+        "hints": [
+            "I have a beak-like mouth.",
+            "I eat algae from coral.",
+            "I am colorful."
+        ]
+    },
+    {
+        "name": "surgeonfish",
+        "altNames": [
+            "tang"
+        ],
+        "hints": [
+            "I have sharp spines on my tail.",
+            "I am colorful.",
+            "I live in coral reefs."
+        ]
+    },
+    {
+        "name": "butterflyfish",
+        "altNames": [
+            "chaetodontidae"
+        ],
+        "hints": [
+            "I am a small, colorful reef fish.",
+            "I have a long snout.",
+            "I am found in tropical oceans."
+        ]
+    },
+    {
+        "name": "goby",
+        "altNames": [
+            "neon goby"
+        ],
+        "hints": [
+            "I am a small fish.",
+            "I perch on rocks.",
+            "I am found in salt and fresh water."
+        ]
+    },
+    {
+        "name": "blenny",
+        "altNames": [
+            "combtooth blenny"
+        ],
+        "hints": [
+            "I am a small fish.",
+            "I have a blunt head.",
+            "I am found in shallow waters."
+        ]
+    },
+    {
+        "name": "mudskipper",
+        "altNames": [
+            "amphibious fish"
+        ],
+        "hints": [
+            "I can walk on land.",
+            "I breathe through my skin.",
+            "I live in mangroves."
+        ]
+    },
+    {
+        "name": "arowana",
+        "altNames": [
+            "dragon fish"
+        ],
+        "hints": [
+            "I am a large, bony fish.",
+            "I can jump out of the water.",
+            "I am prized in aquariums."
+        ]
+    },
+    {
+        "name": "barramundi",
+        "altNames": [
+            "asian sea bass"
+        ],
+        "hints": [
+            "I am a large fish.",
+            "I am found in Australia and Southeast Asia.",
+            "I am popular in cuisine."
+        ]
+    },
+    {
+        "name": "tarpon",
+        "altNames": [
+            "silver king"
+        ],
+        "hints": [
+            "I am a large, silver fish.",
+            "I am a popular game fish.",
+            "I can gulp air."
+        ]
+    },
+    {
+        "name": "sturgeon",
+        "altNames": [
+            "beluga sturgeon"
+        ],
+        "hints": [
+            "I am a large, ancient fish.",
+            "I produce caviar.",
+            "I live in rivers and lakes."
+        ]
+    },
+    {
+        "name": "paddlefish",
+        "altNames": [
+            "spoonbill"
+        ],
+        "hints": [
+            "I have a long, paddle-shaped snout.",
+            "I am a filter feeder.",
+            "I live in North America and China."
+        ]
+    },
+    {
+        "name": "gar",
+        "altNames": [
+            "alligator gar"
+        ],
+        "hints": [
+            "I have a long, toothy snout.",
+            "I am a primitive fish.",
+            "I live in North America."
+        ]
+    },
+    {
+        "name": "bowfin",
+        "altNames": [
+            "dogfish"
+        ],
+        "hints": [
+            "I am a primitive fish.",
+            "I can breathe air.",
+            "I live in North America."
+        ]
+    },
+    {
+        "name": "bichir",
+        "altNames": [
+            "dinosaur eel"
+        ],
+        "hints": [
+            "I am a primitive fish.",
+            "I have lungs and gills.",
+            "I am found in Africa."
+        ]
+    },
+    {
+        "name": "lungfish",
+        "altNames": [
+            "salamanderfish"
+        ],
+        "hints": [
+            "I can breathe air.",
+            "I have both gills and lungs.",
+            "I live in Africa, South America, and Australia."
+        ]
+    }
+]
